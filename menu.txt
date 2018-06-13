@@ -1,2 +1,3 @@
 To jest zawartosc pierwszego pliku
+Dodaję nową linijkę
 
