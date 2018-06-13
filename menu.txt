@@ -1,3 +1,7 @@
 To jest zawartosc pierwszego pliku
-Dodaję nową linijkę
+Dodaję nową (modyfikacja) linijkę
+
+
+
+To jest czwarta linijka
 
