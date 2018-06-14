@@ -4,6 +4,6 @@ To jest kolejna trzecia linijka
 To jest czwarta linijka
 
 TO jest piata linijka
-
 6 linijeczka wlasnie sie pojawila
 
+Dodaje linijkę bezposrednio na GitHubie
