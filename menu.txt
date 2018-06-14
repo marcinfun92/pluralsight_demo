@@ -1,5 +1,6 @@
-To jest zawartosc pierwszego pliku
+﻿To jest zawartosc pierwszego pliku
 Dodaję nową linijkę
 To jest kolejna trzecia linijka
 To jest czwarta linijka
 
+TO jest piata linijka
