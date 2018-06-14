@@ -4,3 +4,5 @@ To jest kolejna trzecia linijka
 To jest czwarta linijka
 
 TO jest piata linijka
+
+Dodaje linijkę bezposrednio na GitHubie
